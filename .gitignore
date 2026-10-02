@@ -1,0 +1,6 @@
+.env
+.streamlit/secrets.toml
+data/college.db
+outbox/
+__pycache__/
+*.pyc

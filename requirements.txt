@@ -1,0 +1,4 @@
+strands-agents[anthropic,ollama]>=1.57
+mcp>=1.20
+streamlit>=1.64
+numpy

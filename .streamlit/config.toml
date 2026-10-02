@@ -1,0 +1,23 @@
+# Warm cream + terracotta palette, matching the presentation deck
+[theme]
+base = "light"
+primaryColor = "#B9503F"
+backgroundColor = "#FAF6EF"
+secondaryBackgroundColor = "#F1E9DD"
+textColor = "#3A2A22"
+borderColor = "#E8DED2"
+linkColor = "#B9503F"
+headingFont = "serif"
+baseRadius = "0.6rem"
+greenColor = "#4E6B3A"
+orangeColor = "#D9A441"
+redColor = "#B9503F"
+
+[theme.sidebar]
+backgroundColor = "#F3EBDF"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
